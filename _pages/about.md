@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: Computer Science + Linguistics @ <a href='https://www.berkeley.edu/'>UC Berkeley</a>
 
