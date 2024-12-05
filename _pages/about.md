@@ -17,6 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 Oh, hey there! I am a junior at UC Berkeley pursuing a double major in Computer Science and Linguistics. I am deeply interested in **Machine Learning** (particularly Natural Language Processing), **Quantum Computing**, and their [intersections](https://arxiv.org/pdf/1611.09347). 
 
-I am also passionate about **Theoretical CS** (particularly Coding Theory and Computational Complexity) and **Programming Language Design**. In my free time, I enjoy learning new (human) languages, [writing](blog.md), film photography, going down YouTube rabbit holes, and staying active through sports and hiking.
+I am also passionate about **Theoretical CS** as a whole and **Programming Language Design**. In my free time, I enjoy learning new (human) languages, [writing](blog), film photography, going down YouTube rabbit holes, and staying active through sports and hiking.
 
 Thank you for visiting my website 😎
