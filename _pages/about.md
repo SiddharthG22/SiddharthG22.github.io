@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink:/
-subtitle: **Computer Science + Linguistics @ <a href='https://www.berkeley.edu/'>UC Berkeley</a>**
+permalink: /
+subtitle: Computer Science + Linguistics @ <a href='https://www.berkeley.edu/'>UC Berkeley</a>
 
 profile:
   align: right
