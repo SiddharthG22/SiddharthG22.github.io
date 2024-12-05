@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some Cool Personal Projects
 nav: true
 nav_order: 3
-display_categories: [personal, academic]
+display_categories: [Personal, Academic]
 horizontal: false
 ---
 
