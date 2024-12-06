@@ -6,7 +6,7 @@ subtitle: Computer Science + Linguistics @ <a href='https://www.berkeley.edu/'>U
 
 profile:
   align: right
-  image: pfp.jpg
+  image: better_pfp.jpg
   image_circular: true # crops the image to make it circular
   
 news: false # includes a list of news items
