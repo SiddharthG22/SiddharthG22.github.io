@@ -5,7 +5,7 @@
     "image": "",
     "email": "siddharthg26@berkeley.edu",
     "phone": "(424) 832-6218",
-    "url": "https://siddharthg22.github.io",
+    "website": "https://siddharthg22.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "",
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of California, Berkeley",
+      "institution": "Bachelor's Degree",
       "location": "Berkeley, California",
       "url": "https://www.berkeley.edu/",
       "area": "Computer Science and Linguistics",
-      "studyType": "Bachelor's Degree",
+      "studyType": "University of California, Berkeley",
       "startDate": "2022-08-01",
       "endDate": "2026-05-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["CS 161: Computer Security, CS 170: Efficient Algorithms and Intractable Problems, CS 172: Computability and Complexity, CS 189: Introduction to Machine Learning, CS 191: Introduction to Quantum Computing, EECS 127: Optimization Models in Engineering, INFO 159: Natural Language Processing"]
     }
   ],
   "awards": [
