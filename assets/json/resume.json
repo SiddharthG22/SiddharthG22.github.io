@@ -67,48 +67,62 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+  "coursework": [
     {
-      "name": "Machine Learning",
+      "name": "Efficient Algorithms and Intractable Problems",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "issuer": "UC Berkeley",
+      "url": "https://classes.berkeley.edu/content/2024-fall-compsci-170-001-lec-001",
+      "icon": "fa-solid fa-chalkboard"
     },
     {
-      "name": "Quantum Computing",
+      "name": "Computability and Complexity",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "issuer": "UC Berkeley",
+      "url": "https://classes.berkeley.edu/content/2024-fall-compsci-172-001-lec-001",
+      "icon": "fa-solid fa-chalkboard"
     },
     {
-      "name": "Quantum Information",
+      "name": "Combinatorics and Discrete Probability",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "issuer": "UC Berkeley",
+      "url": "https://classes.berkeley.edu/content/2025-spring-compsci-174-001-lec-001",
+      "icon": "fa-solid fa-chalkboard"
     },
     {
-      "name": "Quantum Cryptography",
+      "name": "Introduction to Quantum Computing",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "issuer": "UC Berkeley",
+      "url": "https://classes.berkeley.edu/content/2025-spring-compsci-c191-001-lec-001",
+      "icon": "fa-solid fa-chalkboard"
     },
     {
-      "name": "Quantum Communication",
+      "name": "Optimization Models in Engineering",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "issuer": "UC Berkeley",
+      "url": "https://classes.berkeley.edu/content/2024-spring-eecs-127-001-lec-001",
+      "icon": "fa-solid fa-laptop-code"
     },
     {
-      "name": "Quantum Teleportation",
+      "name": "Probability and Random Processes",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "issuer": "UC Berkeley",
+      "url": "https://classes.berkeley.edu/content/2024-spring-eecs-126-001-lec-001",
+      "icon": "fa-solid fa-laptop-code"
+    },
+    {
+      "name": "Introduction to Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "UC Berkeley",
+      "url": "https://classes.berkeley.edu/content/2024-fall-compsci-189-001-lec-001",
+      "icon": "fa-solid fa-laptop-code"
+    },
+    {
+      "name": "Natural Language Processing",
+      "date": "2018-01-01",
+      "issuer": "UC Berkeley",
+      "url": "https://classes.berkeley.edu/content/2025-spring-info-159-001-lec-001",
+      "icon": "fa-solid fa-chalkboard"
     }
   ],
   "publications": [
