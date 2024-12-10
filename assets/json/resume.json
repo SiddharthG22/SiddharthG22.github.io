@@ -5,7 +5,7 @@
     "image": "",
     "email": "siddharthg26@berkeley.edu",
     "phone": "(424) 832-6218",
-    "website": "https://siddharthg22.github.io",
+    "pronouns": "he/him/his",
     "summary": "I'm him.",
     "location": {
       "address": "",
@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
+      "name": "Lawrence Berkeley National Laboratory",
+      "position": "Quantum Computing Research Intern",
+      "url": "https://www.lbl.gov/research/quantum/",
+      "startDate": "2024-05",
+      "endDate": "Present",
+      "summary": "Contributor to BQSKit, an open-source compiler framework for Quantum Computers!"
     }
   ],
   "volunteer": [
@@ -67,10 +67,34 @@
   ],
   "coursework": [
     {
-      "name": "CS 170",
-      "issuer": "Efficient Algorithms and Intractable Problems",
-      "url": "https://classes.berkeley.edu/content/2024-fall-compsci-170-001-lec-001",
-      "icon": "fa-solid fa-chalkboard"
+      "name": "INFO 159",
+      "issuer": "Natural Language Processing",
+      "url": "https://classes.berkeley.edu/content/2025-spring-info-159-001-lec-001",
+      "icon": "fa-solid fa-language"
+    },
+    {
+      "name": "EECS 127",
+      "issuer": "Optimization Models in Engineering",
+      "url": "https://classes.berkeley.edu/content/2024-spring-eecs-126-001-lec-001",
+      "icon": "fa-solid fa-wrench"
+    },
+    {
+      "name": "EECS 126",
+      "issuer": "Probability and Random Processes",
+      "url": "https://classes.berkeley.edu/content/2024-spring-eecs-127-001-lec-001",
+      "icon": "fa-solid fa-dice"
+    },
+    {
+      "name": "CS 191",
+      "issuer": "Introduction to Quantum Computing",
+      "url": "https://classes.berkeley.edu/content/2025-spring-compsci-c191-001-lec-001",
+      "icon": "fa-solid fa-atom"
+    },
+    {
+      "name": "CS 189",
+      "issuer": "Introduction to Machine Learning",
+      "url": "https://classes.berkeley.edu/content/2024-fall-compsci-189-001-lec-001",
+      "icon": "fa-solid fa-brain-circuit"
     },
     {
       "name": "CS 172",
@@ -79,40 +103,16 @@
       "icon": "fa-solid fa-chalkboard"
     },
     {
-      "name": "CS 174",
-      "issuer": "Combinatorics and Discrete Probability",
-      "url": "https://classes.berkeley.edu/content/2025-spring-compsci-174-001-lec-001",
-      "icon": "fa-solid fa-chalkboard"
+      "name": "CS 170",
+      "issuer": "Efficient Algorithms and Intractable Problems",
+      "url": "https://classes.berkeley.edu/content/2024-fall-compsci-170-001-lec-001",
+      "icon": "fa-solid fa-chart-diagram"
     },
     {
-      "name": "CS 191",
-      "issuer": "Introduction to Quantum Computing",
-      "url": "https://classes.berkeley.edu/content/2025-spring-compsci-c191-001-lec-001",
-      "icon": "fa-solid fa-chalkboard"
-    },
-    {
-      "name": "EECS 126",
-      "issuer": "Probability and Random Processes",
-      "url": "https://classes.berkeley.edu/content/2024-spring-eecs-127-001-lec-001",
-      "icon": "fa-solid fa-laptop-code"
-    },
-    {
-      "name": "EECS 127",
-      "issuer": "Optimization Models in Engineering",
-      "url": "https://classes.berkeley.edu/content/2024-spring-eecs-126-001-lec-001",
-      "icon": "fa-solid fa-laptop-code"
-    },
-    {
-      "name": "CS 189",
-      "issuer": "Introduction to Machine Learning",
-      "url": "https://classes.berkeley.edu/content/2024-fall-compsci-189-001-lec-001",
-      "icon": "fa-solid fa-laptop-code"
-    },
-    {
-      "name": "INFO 159",
-      "issuer": "Natural Language Processing",
-      "url": "https://classes.berkeley.edu/content/2025-spring-info-159-001-lec-001",
-      "icon": "fa-solid fa-chalkboard"
+      "name": "CS 161",
+      "issuer": "Computer Security",
+      "url": "https://classes.berkeley.edu/content/2024-fall-compsci-161-001-lec-001",
+      "icon": "fa-solid fa-file-lock"
     }
   ],
   "publications": [
