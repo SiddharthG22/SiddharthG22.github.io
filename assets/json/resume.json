@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Lawrence Berkeley National Laboratory",
-      "position": "Quantum Computing Research Intern",
+      "name": "Quantum Computing Research Intern",
+      "position": "Lawrence Berkeley National Laboratory",
       "url": "https://www.lbl.gov/research/quantum/",
       "startDate": "2024-05",
       "endDate": "Present",
-      "summary": "Contributor to BQSKit, an open-source compiler framework for Quantum Computers!"
+      "summary": "Contributing to BQSKit, an open-source compiler framework for Quantum Computers!"
     }
   ],
   "volunteer": [
@@ -94,7 +94,7 @@
       "name": "CS 189",
       "issuer": "Introduction to Machine Learning",
       "url": "https://classes.berkeley.edu/content/2024-fall-compsci-189-001-lec-001",
-      "icon": "fa-solid fa-brain-circuit"
+      "icon": "fa-solid fa-brain"
     },
     {
       "name": "CS 172",
@@ -106,13 +106,13 @@
       "name": "CS 170",
       "issuer": "Efficient Algorithms and Intractable Problems",
       "url": "https://classes.berkeley.edu/content/2024-fall-compsci-170-001-lec-001",
-      "icon": "fa-solid fa-chart-diagram"
+      "icon": "fa-solid fa-code-fork"
     },
     {
       "name": "CS 161",
       "issuer": "Computer Security",
       "url": "https://classes.berkeley.edu/content/2024-fall-compsci-161-001-lec-001",
-      "icon": "fa-solid fa-file-lock"
+      "icon": "fa-solid fa-lock"
     }
   ],
   "publications": [
@@ -155,7 +155,7 @@
     {
       "name": "Libraries",
       "level": "Proficient",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-laptop",
       "keywords": [
         "NumPy",
         "pandas",
