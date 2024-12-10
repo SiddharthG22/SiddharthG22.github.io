@@ -79,34 +79,34 @@
       "icon": "fa-solid fa-wrench"
     },
     {
-      "name": "EECS 126",
-      "issuer": "Probability and Random Processes",
-      "url": "https://classes.berkeley.edu/content/2024-spring-eecs-127-001-lec-001",
-      "icon": "fa-solid fa-dice"
-    },
-    {
       "name": "CS 191",
-      "issuer": "Introduction to Quantum Computing",
+      "issuer": "Quantum Computing",
       "url": "https://classes.berkeley.edu/content/2025-spring-compsci-c191-001-lec-001",
       "icon": "fa-solid fa-atom"
     },
     {
       "name": "CS 189",
-      "issuer": "Introduction to Machine Learning",
+      "issuer": "Machine Learning",
       "url": "https://classes.berkeley.edu/content/2024-fall-compsci-189-001-lec-001",
       "icon": "fa-solid fa-brain"
     },
     {
       "name": "CS 172",
-      "issuer": "Computability and Complexity",
+      "issuer": "Computational Complexity",
       "url": "https://classes.berkeley.edu/content/2024-fall-compsci-172-001-lec-001",
       "icon": "fa-solid fa-chalkboard"
     },
     {
       "name": "CS 170",
-      "issuer": "Efficient Algorithms and Intractable Problems",
+      "issuer": "Efficient Algorithms",
       "url": "https://classes.berkeley.edu/content/2024-fall-compsci-170-001-lec-001",
       "icon": "fa-solid fa-code-fork"
+    },
+    {
+      "name": "CS 164",
+      "issuer": "Programming Languages/Compilers",
+      "url": "https://classes.berkeley.edu/content/2024-fall-compsci-164-001-lec-001",
+      "icon": "fa-solid fa-laptop-code"
     },
     {
       "name": "CS 161",
