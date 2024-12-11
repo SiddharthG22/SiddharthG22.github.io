@@ -19,4 +19,4 @@ Oh, hey there! I am a junior at UC Berkeley pursuing a double major in Computer 
 
 I am also passionate about **Theoretical CS** as a whole and **Programming Language Design**. In my free time, I enjoy learning new (human) languages, [writing](blog), film photography, going down YouTube rabbit holes, and staying active through sports and hiking.
 
-also - Go Bears! 🐻
+Go Bears! 🐻🚀
